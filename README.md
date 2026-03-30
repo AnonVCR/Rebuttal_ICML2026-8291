@@ -8,3 +8,5 @@
 
 ![Table D](shared_specific_ablation.PNG)
 
+**Figure A: Correlation between Representation Shift and Ground Truth Probability Drop.**
+![Figure A](lsm2_hallucination_recon_scatter_replot.png)
